@@ -1,0 +1,22 @@
+
+
+.healthbar{
+    height: 22px;
+    border: 1px solid #92bd15;
+    width: 300px;
+    position: relative;
+}
+.healthbar_value{
+    
+    height: 22px;
+    position: absolute;
+    
+}
+.healthbat_text{
+    position: relative;
+    right: -10px;
+    top: -13px;
+    font-weight: 400;
+   color: aliceblue;
+   
+}
